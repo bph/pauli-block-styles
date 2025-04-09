@@ -2,7 +2,7 @@
 /*
  * Plugin Name:       Block Styles by Pauli
  * Plugin URI:        https://github.com/bph/pauli-block-styles 
- * Description:       Offers block styles for image in context of an article on WordPress.com
+ * Description:       Offers block styles for the core image block in context of an article on WordPress.com
  * Version:           0.1.0
  * Requires at least: 6.6
  * Requires PHP:      7.2
