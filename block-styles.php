@@ -75,7 +75,3 @@ function my_double_frame_styles() {
     );
 }
 add_action( 'init', 'my_double_frame_styles' );
-
-
-
-
